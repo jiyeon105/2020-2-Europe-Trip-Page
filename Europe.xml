@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="euc-kr"?>
+<?xml-stylesheet type="text/xsl" href="europe.xsl"?>
+<europe_catalog>
+  <europe category="동유럽" num="1">
+    <capital>모스크바</capital>
+    <name language="Korean">러시아</name>
+    <name language="English">russia</name>
+    <area units="ha">17억 982만 5천</area>
+    <population>1억 4593만 4460</population>
+    <distance units="km">3078</distance>
+    <spot>
+      <name>성 바실리 대성당</name>
+      <description>모스크바 붉은광장 남쪽에 있는 성당. 유네스코로 등재되어 있다. 이 서앙은 뇌제 이반 4세가 1552년에 카잔 칸에게 승리한 것을 기념하여 세운 것이다. 1560년에 완성된 성당은 성모 마리아를 수호성인으로 모셨으며, 정식 이름은 포크로프크시 성당인데, 1588년에 증축한 경당에 동방교회에서 널리 공경받는 성인이니 카이사리아의 대 바실리오를 모셨기 때문에 나중에 바실리라는 명칭이 사람들에게 더 친숙해지게 되었다.</description>
+      <address>Red Square, Moscow, 러시아 109012</address>
+      <main_image file="성바실리대성당.jpg" />
+    </spot>
+  </europe>
+  <europe category="동유럽" num="2">
+    <capital>프라하</capital>
+    <name language="Korean">체코</name>
+    <name language="English">Czech</name>
+    <area units="ha">788만 7천</area>
+    <population>1070만 8982</population>
+    <distance units="km">8398</distance>
+    <spot>
+      <name>프라하 성</name>
+      <description>‘세계에서 가장 큰 고대 성채 단지’로 기네스북에 오른 곳이다. 프라하성 시크릿 플레이스 중 왕실 정원은 1534년 처음 생겼으며 르네상스 스타일과 영국식 정원의 스타일이 혼재된 아름다운 정원. 한적하고 조용한 가운데 분수, 기하학적 무늬의 꽃밭, 페르디난트 1세 황제가 아내 앤에게 바친 여름 궁전도 찬찬히 둘러보자. ‘볼 게임 홀’에서는 르네상스 시대의 아름다운 스그라피토 장식을 엿볼 수 있다. 파라다이스 정원, 성곽 정원으로 이루어진 남쪽 정원은 프라하성 남쪽 전면에 걸쳐 길게 놓여 있다. 탁 트인 프라하의 뷰를 감상해 볼 수 있는 프라하성 최고의 뷰 포인트이다. 마지막으로 예로부터 노비 스비엣은 성 주변의 상권에서 일하던 사람들이 살던 곳이다. 지금은 관광객들을 피해 호젓한 산책을 즐길 수 있다. 특히 ‘카페 노비 스비엣’은 프라하성에서 10분 거리에 있다는 것이 믿기지 않을 만큼 고요하고 마법 같은 장소. 인파를 벗어나 테라스에 앉아 한숨 돌렸다 가자.</description>
+      <address>Hrad&#x10D;any, 119 08 Praha 1</address>
+      <main_image file="Praguecastle.jpg" />
+    </spot>
+  </europe>
+  <europe category="동유럽" num="3">
+    <capital>부다페스트</capital>
+    <name language="Korean">헝가리</name>
+    <name language="English">Hungary</name>
+    <area units="ha">930만 3천</area>
+    <population>966만 350</population>
+    <distance units="km">8211</distance>
+    <spot>
+      <name>어부의 요새</name>
+      <description>마차시 성당을 보호하기 위해 지은 성곽이다. 전경이 아름답다. 왕궁 언덕의 동쪽에 우뚝 서 있는 네오 로마네스크와 네오 고딕 양식이 절묘하게 혼재된 건물로, 1899년에서 1905년 사이에 지어졌다. 헝가리 애국정신의 한 상징으로 19세기 시민군이 왕궁을 지키고 있을 때 도나우강의 어부들이 강을 건너 기습하는 적을 막기 위해 이 요새를 방어한 데서 그 이름이 유래했다. 중세에는 어부들이 도나우강에서 왕궁 지구에 있는 어시장으로 가는 지름길로 사용했다.</description>
+      <address>U Brusnice 11, 118 00 Praha 6-Hrad&#x10D;any, 체코</address>
+      <main_image file="어부의요새.png" />
+    </spot>
+  </europe>
+  <europe category="서유럽" num="4">
+    <capital>런던</capital>
+    <name language="Korean">영국</name>
+    <name language="English">United Kingdom</name>
+    <area units="ha">2436만 1천</area>
+    <population>6788만 6004</population>
+    <distance units="km">8852</distance>
+    <spot>
+      <name>버킹엄 궁전</name>
+      <description>현재 엘리자베스 2세 여왕이 살면서 업무를 보는 공간이다. 1703년부터 버킹엄 공작의 저택이었으나 1761년에 국가가 사들여서 궁전으로 격상시켰다. 여행객들이 버킹엄 궁전을 많이 찾는 가장 큰 이유는 궁전 앞에서 열리는 근위병 교대식 때문이다. 근위병 교대식은 하절기에는 매일 오전 11:00에 열리며, 동절기에는 격일로 11:00에 열린다. 항상 수많은 인파가 몰려들기 때문에 교대식을 가까이 보려면 최소 한 시간은 일찍 가야 자리를 잡을 수 있다. 버킹엄 궁전의 집무실은 여름에 일정 시기만 개관을 하고 다른 날에는 하지 않음. 실제로 사용하는 공간이기 때문이다. The Queen's Gallery(박물관), The Royal Mews(황실 마구간)는 연중 관람이 가능하며 입장료와 운영시간은 수시로 바뀌므로 홈페이지를 참조해야 한.</description>
+      <address>Westminster, London SW1A 1AA</address>
+      <main_image file="버킹엄궁전.jpg" />
+    </spot>
+  </europe>
+  <europe category="서유럽" num="5">
+    <capital>베를린</capital>
+    <name language="Korean">독일</name>
+    <name language="English">Germany</name>
+    <area units="ha">3575만 8천</area>
+    <population>8378만 3945</population>
+    <distance units="km">8564</distance>
+    <spot>
+      <name>마리엔 광장</name>
+      <description>역사적, 지리적으로도 많은 의미를 지닌 마리엔 광장은 과거부터 지금까지 뮌헨의중심 광장 역할을 하고 있다. 마리엔 광장에서는 뮌헨에서 가장 오래된 교회인 성 페터 교회(St. Peter’s)와, 고딕 양식으로 지어진 신 시청사도 볼 수 있다. 신 시청사 앞 광장 한복판에는 뮌헨의 수호신인 마리아의 모습을 조각한 황금빛 상이 올라간 ‘마리아의 탑’이 있다. 뮌헨의 중심지답게 많은 레스토랑, 상점들이 모여 있어 늘 사람들로 북적인다. </description>
+      <address>Marienplatz, 80331 M&#xFC;nchen, 독일</address>
+      <main_image file="마리엔광장.jpg" />
+    </spot>
+  </europe>
+  <europe category="서유럽" num="6">
+    <capital>베른</capital>
+    <name language="Korean">스위스</name>
+    <name language="English">Switzerland</name>
+    <area units="ha">412만 9039</area>
+    <population>865만 4618</population>
+    <distance units="km">8870</distance>
+    <spot>
+      <name>베르니나 익스프레스</name>
+      <description>스위스 철도 산업의 상징인 ‘레티쉐 철도(Rh&#xE4;tische Bahn)’는 빙하 특급 일부와 쿠어, 다보스, 아로자 등 그라우뷘덴 지방을 누빈다. 특히 투시스에서 생모리츠, 그리고 베르니나 고개(Bernina Pass)(2,253m)를 넘어 이탈리아 티라노까지 연결된 베르니나 익스프레스(Bernina Express) 구간은 ‘유네스코 세계유산’으로 지정(2007년)된 역사적인 기차 길이다. </description>
+      <address>Pontresina 7504</address>
+      <main_image file="베르니나익스프레스.png" />
+    </spot>
+  </europe>
+  <europe category="서유럽" num="7">
+    <capital>암스테르담</capital>
+    <name language="Korean">네덜란드</name>
+    <name language="English">Netherlands</name>
+    <area units="ha">415만 4천</area>
+    <population>1713만 4873</population>
+    <distance units="km">8745</distance>
+    <spot>
+      <name>고흐 미술관</name>
+      <description>네덜란드 암스테르담 위치해 있는 고흐 미술관은 네덜란드를 대표하는 19세기 신인상파 화가 빈센트 반 고흐의 작품들을 주로 전시하고 있다. 반고흐의 예술가로서의 생애를 시기별로 나누어 전시를 진행하고 있어서, 고흐의 생과 예술가로서의 성장 과정을 단계별로 감상할 수 있다. 1973년에 개관했고, 약 200점의 회화, 500여 점의 소묘, 750여 점의 개인 기록이 전시되어있다. 연 관람객은 약 142만 명이다.</description>
+      <address>Museumplein 6, 1071 DJ Amsterdam, 네덜란드</address>
+      <main_image file="고흐미술관.png" />
+    </spot>
+  </europe>
+  <europe category="서유럽" num="8">
+    <capital>파리</capital>
+    <name language="Korean">프랑스</name>
+    <name language="English">France</name>
+    <area units="ha">5490만 8700</area>
+    <population>6527만 3512</population>
+    <distance units="km">9228</distance>
+    <spot>
+      <name>에펠탑</name>
+      <description>파리를 대표하는 최고의 상징, 에펠탑. 에펠탑은 총 321m에 이르는 높이이다. 1889년 파리 박람회를 기념하여 구스타프 에펠의 설계로 세워진 에펠탑은 파리뿐 아니라 프랑스 하면 가장 먼저 떠오르는 하나의 아이콘이다. 처음 세워질 당시에는 파리의 미관을 망친다는 비난이 많았을 정도로 낮의 에펠탑은 커다란 회색 철탑으로 조금 삭막해 보일 수 있다. 하지만 밤의 에펠탑을 보면 그런 생각이 잊혀진다. 해가 진 후 매시 정각에 5분씩 진행되는 에펠탑만의 조명쇼는 감탄을 자아내게 한다. 파리뿐만 아니라 프랑스를 상징하는 탑 매표 줄이 매우 길기 때문에 예매를 한다면 시간 절약 가능하다. 해가 진 후 매 시 정각에 조명쇼 진행내부에는 화장실이 있으나 바깥의 주변에는 없고, 공중 화장실도 밤에는 문을 닫으므로 주의해라. 에펠탑 최상부 전망대는 무료로 와이파이 사용 가능하다.
+
+홈페이지: http://www.tour-eiffel.fr</description>
+      <address>Champ de Mars, 5 Avenue Anatole France, 75007 Paris, 프랑스</address>
+      <main_image file="EiffelTower.jpg" />
+    </spot>
+  </europe>
+  <europe category="남유럽" num="9">
+    <capital>로마</capital>
+    <name language="Korean">이탈리아</name>
+    <name language="English">Italy</name>
+    <area units="ha">3013만 4천</area>
+    <population>6046만 1828</population>
+    <distance units="km">9141</distance>
+    <spot>
+      <name>콜로세움</name>
+      <description>로마의 상징인 거대한 건축물 콜로세움은 서기 72년 베스파시아누스 황제가 짓기 시작해 80년 그의 아들 티투스 황제가 연 4만 명의 인원을 투입해 완성시킨 원형 경기장이다. 원래 이곳은 네로 황제의 궁전 도무스 아우레아에서 내려다보이는 인공 연못이었는데 그곳에 흙을 채워 경기장을 건설한 것이다. 2000년 세월 동안 지진과 전쟁을 많이 겪었지만 아직도 거의 원형을 유지하고 있는 데서 고대 로마의 뛰어난 건축 기술을 짐작해 볼 수가 있다.
+
+Tip
+- 이탈리아 특히 로마에서는 Last Order Rule이 철저히 지켜진다. 대부분의 볼거리에서는 폐장시간 1시간 전에 입장권 판매를 마감하고 간신히 표를 구해 들어갔다 하더라고 무조건 1시간 내에 나와야 한다. 그러니 관심이 있거나 규모가 큰 볼거리의 경우 꼭 시간 여유를 가지고 둘러보길 권한다.
+- 광장에는 싸구려 티셔츠와 음료수 등을 파는 노점상들이 있고 로마 시대 복장을 한 사람들이 관광지다운 분위기를 만든다. 물론 이들과 함께 사진을 찍을 수도 있는데 돈을 주어야 한다. 간혹 꽤 많은 돈을 뜯긴 사람도 있으므로 사진을 찍기 전 확실히 가격을 물어보는 게 좋다.
+
+홈페이지: www.coopculture.it</description>
+      <address>Red Square, Moscow, 러시아 109012</address>
+      <main_image file="Colosseo.jpg" />
+    </spot>
+  </europe>
+  <europe category="남유럽" num="10">
+    <capital>아테네</capital>
+    <name language="Korean">그리스</name>
+    <name language="English">Greece</name>
+    <area units="ha">1319만 6천</area>
+    <population>1042만 3056</population>
+    <distance units="km">8739</distance>
+    <spot>
+      <name>산토리니</name>
+      <description>산토리니는 ‘빛에 씻긴 섬’이다. 하얀 골목, 파란 교회당, 담장을 치장한 붉은 부겐빌레아마저 선명하다. 엽서를 보며 동경했던 바닷가 마을은 현실과 조우하면 더욱 강렬하다. 에게해의 탐나는 섬, 산토리니는 그런 눈부신 풍경을 지녔다.그리스의 대문호 니코스 카잔차키스는 소설 [그리스인 조르바]에서 이렇게 썼다. “죽기 전에 에게해를 여행할 행운을 누리는 사람은 복이 있다”고. 소설 속에서 에게해의 섬들은 현실을 꿈의 세계로 연결해주는 매개체다.</description>
+      <address>Σαντορ&#x3AF;νη</address>
+      <main_image file="Santorini.png" />
+    </spot>
+  </europe>
+</europe_catalog>

@@ -1,0 +1,25 @@
+<!ELEMENT europe_catalog (title, europe+)>
+<!ELEMENT title (image)>
+<!ELEMENT image (#PCDATA)>
+<!ATTLIST image
+          file CDATA #REQUIRED>
+<!ELEMENT europe (capital, name+, area, population, distance, main_image?, spot)>
+<!ATTLIST europe
+          category CDATA #REQUIRED
+          num CDATA #REQUIRED>
+<!ELEMENT capital (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ATTLIST name
+          language CDATA #IMPLIED>
+<!ELEMENT area (#PCDATA)>
+<!ATTLIST area
+          units CDATA #REQUIRED>
+<!ELEMENT population (#PCDATA)>
+<!ELEMENT distance (#PCDATA)>
+<!ATTLIST distance
+          units CDATA #REQUIRED>
+<!ELEMENT main_image (#PCDATA)>
+<!ATTLIST main_image
+          file CDATA #IMPLIED>
+<!ELEMENT spot (name, description, main_image)>
+<!ELEMENT description (#PCDATA)>
